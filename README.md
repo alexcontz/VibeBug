@@ -25,3 +25,16 @@ This repository is an experimental Flutter project built from scratch using **Vi
 (Results are approximate)
 
 > ⚠️ The AI was able to generate code quickly, but the high error rate and instability highlight that significant human oversight is still massively required.
+
+---
+
+## License
+
+This project is licensed under the GNU General Public License. See the [LICENSE](LICENSE.MD) file for details.  
+
+---
+
+## Contact
+
+Created by **[Contz Alexandru-Ioan](https://github.com/contzalex)**.  
+For questions, suggestions, or support, open an issue in this repository.
