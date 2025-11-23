@@ -36,5 +36,5 @@ This project is licensed under the GNU General Public License. See the [LICENSE]
 
 ## Contact
 
-Created by **[Contz Alexandru-Ioan](https://github.com/contzalex)**.  
+Created by **[Alexandru-Ioan Contz](https://github.com/alexcontz)**.  
 For questions, suggestions, or support, open an issue in this repository.
